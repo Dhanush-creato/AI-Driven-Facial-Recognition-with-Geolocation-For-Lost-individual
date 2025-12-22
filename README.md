@@ -123,3 +123,13 @@ AI & Python Developer
 git add README.md
 git commit -m "Added complete project README"
 git push
+
+if Ingore thse you will not get it
+{
+  "apiKey": "YOUR_API_KEY",
+  "authDomain": "YOUR_PROJECT.firebaseapp.com",
+  "projectId": "YOUR_PROJECT_ID",
+  "storageBucket": "YOUR_PROJECT.appspot.com",
+  "messagingSenderId": "YOUR_SENDER_ID",
+  "appId": "YOUR_APP_ID"
+}
